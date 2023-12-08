@@ -1,4 +1,4 @@
-@media (max-width: 800px)
+@media (min-width: 800px)
 {
     h1{
         font-family: "Sofia", sans-serif;
