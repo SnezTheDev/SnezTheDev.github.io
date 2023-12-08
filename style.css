@@ -4,4 +4,10 @@
         font-family: "Sofia", sans-serif;
     }
 }
+@media (min-width: 799px)
+{
+    h1{
+        font-family: "Sofia", serif;
+    }
+}
 
