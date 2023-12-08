@@ -1,16 +1,15 @@
 @media screen and (min-width: 800px)
 {
-    h1{
-        font-family: "Sofia", sans-serif;
-    }
+    
 }
 
 @media screen and (max-width: 799px)
 {
-    h1{
-        color:aquamarine;
-        background-color: black;
-    }
+    
 }
 
+body
+{
+    background-color: black;
+}
 
