@@ -5,4 +5,11 @@
     }
 }
 
+@media screen and (max-width: 799px)
+{
+    h1{
+        color:aquamarine;
+    }
+}
+
 
