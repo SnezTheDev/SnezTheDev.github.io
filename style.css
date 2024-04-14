@@ -10,7 +10,7 @@
 
 body
 {
-    background-color: green;
+    background-color: black;
 }
 
 h1
@@ -21,4 +21,7 @@ h1
 #title
 {
     background-color:  darkgrey;
+    border-color: aqua;
+    border-width: 2px;
+    border-style: dashed;
 }
