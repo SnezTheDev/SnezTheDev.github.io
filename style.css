@@ -24,10 +24,14 @@ h1
     border-color: aqua;
     border-width: 2px;
     border-style: dashed;
-    text-align: center;
 }
 
 .lowertext
 {
     background-color:  darkgrey;
+}
+
+.toptab
+{
+    margin: 10%;
 }
